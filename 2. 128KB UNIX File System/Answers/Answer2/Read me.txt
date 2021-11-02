@@ -1,0 +1,22 @@
+=============
+HOW TO RUN:
+=============
+-------------------------
+1.On windows:
+-------------------------
+step1: On the same directory where the program is located, press Shift+Right click on blank area.
+step2: Select "Open PowerShell window here".
+step3: type "g++ Answer2.cpp -o Answer2"
+step4: type "./Answer2 Input.txt FF LR LF"
+Note: A text file is needed to run the program as given in the Assignment ,also any combination of operation(FF,LR,LF) are valid. 
+
+If you see the error:  "The term 'g++' is not recognized as...", that means, either you do not have a g++ compiler installed or you have g++ compiler installed but the path variable is not set.
+You can try on the Linux OS then. Because Linux comes with preinstalled g++ with already set path varible.
+--------------------
+2.On Linux:
+--------------------
+step1: On the same directory where the program is located, press Right click on blank area.
+step2: Select "Open in Terminal".
+step3: type "g++ Answer2.cpp -o Answer2"
+step4: type "./Answer2 Input.txt FF LR LF"
+Note: A text file is needed to run the program as given in the Assignment ,also any combination of operation(FF,LR,LF) are valid. 
